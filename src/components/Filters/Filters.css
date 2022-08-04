@@ -1,0 +1,9 @@
+.row-filter{
+    justify-content: center;
+}
+
+@media (max-width: 767px) {
+    .row-filter{
+        justify-content: start;
+    }
+}
